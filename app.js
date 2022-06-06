@@ -40,5 +40,6 @@ app.get('/random-beers',(req,res) => {
   //alert(beer[0].name)
 //})
 
+// Marina nose donde esta el error no se me conectan a las rutas cuando estoy en el local host y no encuentro el error.
 
 app.listen(3000, () => console.log('🏃‍ on port 3000'));
